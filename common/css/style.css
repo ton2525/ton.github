@@ -337,7 +337,7 @@ main h2{
 }
 .adress{
   display: block;
-  width:323px;
+  width:400px;
   font-size: 18px;
   color: #fdfff9;
   font-family: "游ゴシック","ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro","メイリオ", "Meiryo", "Osaka", "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
@@ -373,3 +373,4 @@ main h2{
   color: #ffffff;
   margin: 0px 30px 0px 0px;
   }
+
