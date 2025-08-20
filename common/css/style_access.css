@@ -97,8 +97,7 @@ main{
 }/*clearboth入れたらbread_crumb liの横並びがうまくいった。何故？？？？*/
 .gmap {
 height: 500;
-padding-bottom: 75%;
-	/*数値を56.25%から変更*/
+padding-bottom: 56.25%;
 }
 .pagetop{
   background-color: #7baa17;
@@ -174,4 +173,5 @@ padding-bottom: 75%;
   color: #ffffff;
   margin: 0px 30px 0px 0px;
   }
+
 
