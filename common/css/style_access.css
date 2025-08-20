@@ -95,9 +95,10 @@ main{
 	padding-top: 20px;
 	padding-bottom: 5px;
 }/*clearboth入れたらbread_crumb liの横並びがうまくいった。何故？？？？*/
+
 .gmap {
 max-width: 800px;
-margin: 0 auto;
+margin: 0 auto 20px;
 aspect-ratio: 16 / 9;
 }
 .gmap iframe {
@@ -178,6 +179,7 @@ aspect-ratio: 16 / 9;
   color: #ffffff;
   margin: 0px 30px 0px 0px;
   }
+
 
 
 
